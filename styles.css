@@ -1,5 +1,5 @@
 body {
-  background-color: lightgrey;
+  background-color: white;
 }
 
 .content {
@@ -107,6 +107,7 @@ body {
   padding: 0;
   border-left: 2px solid green;
   margin-left: 10px;
+  padding-left: 10px;
 }
 
 /******BUTTONS*******/
